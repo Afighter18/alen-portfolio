@@ -50,9 +50,8 @@ MY SKILL DAY WEBSITE
 
     <div class="section">
       <h2>My Graphic Design Posters</h2>
-      <img src="poster_child_labour.jpg" alt="Child Labour Poster" />
-      <img src="poster_chocolate_day.jpg" alt="Chocolate Day Poster" />
-    </div>
+      <img src="poster1.jpg" alt="Poster 1" width="300">
+<img src="poster2.jpg" alt="Poster 2" width="300">
 
     <div class="section">
       <h2>My School - MTVHSS Kunnam</h2>
