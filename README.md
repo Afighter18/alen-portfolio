@@ -79,8 +79,7 @@ MY SKILL DAY WEBSITE
     </div>
 
     <div class="section">
-      <h2>Street Play Videos</h2>
-      <iframe src="https://www.youtube.com/embed/6M82DFmSgI8" frameborder="0" allowfullscreen></iframe>
+      <h2>Street Play Videos</h2
       <iframe src="https://www.youtube.com/embed/Sug1rXRE9OY" frameborder="0" allowfullscreen></iframe>
     </div>
 
