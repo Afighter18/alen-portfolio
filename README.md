@@ -3,12 +3,7 @@ MY MTVHSS
 <html lang="en">
 <head>
 https://chat.openai.com/c/mnt/data/A_digital_photograph_with_overlaid_text_captures_M.png
-    body {
-      margin: 0;
-      font-family: 'Segoe UI', sans-serif;
-    }
-
-    header {
+header {
       background: url('https://lh5.googleusercontent.com/p/AF1QipPOQa_dLK3bKmtE0_1vNW4psISAS93QJ4bzz4rO=w1080-k-no') no-repeat center center/cover;
       height: 60vh;
       position: relative;
