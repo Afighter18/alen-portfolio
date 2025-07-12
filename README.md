@@ -6,9 +6,6 @@ https://chat.openai.com/c/mnt/data/A_digital_photograph_with_overlaid_text_captu
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
-      background-color: #f3f3f3;
-      color: #333;
-      line-height: 1.6;
     }
 
     header {
