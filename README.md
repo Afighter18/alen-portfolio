@@ -1,12 +1,9 @@
 # MTVHSS_Site
 MY MTVHSS 
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>MTVHSS – Life Changer</title>
-  <style>
+  <body style="background-image: url('https://chat.openai.com/c/mnt/data/A_digital_photograph_with_overlaid_text_captures_M.png'); background-size: cover; background-position: center;">
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
