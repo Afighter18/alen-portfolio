@@ -1,9 +1,8 @@
 # MTVHSS_Site
 MY MTVHSS 
-
 <html lang="en">
 <head>
-  <body style="background-image: url('https://chat.openai.com/c/mnt/data/A_digital_photograph_with_overlaid_text_captures_M.png'); background-size: cover; background-position: center;">
+https://chat.openai.com/c/mnt/data/A_digital_photograph_with_overlaid_text_captures_M.png
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
