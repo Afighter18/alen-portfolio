@@ -93,7 +93,7 @@
   </div>
 
   <footer>
-    © 2025 MTVHSS | Created by Alen Mathew using GitHub Pages
+    © 2025 MTVHSS | Created by Alen Mathew using ❤️
   </footer>
 
 </body>
