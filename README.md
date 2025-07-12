@@ -81,7 +81,7 @@
     <h2>About Me – Alen Mathew</h2>
     <p>I am a student of Class XI, LTPM Batch at MTVHSS. This project is created as a part of my passion for innovation and love for our school. I'm also part of YIP and actively involved in tech and creativity.</p>
 
-    <h2>Our Memories (Video)</h2>
+    <h2>Old Video of School (Video)</h2>
     <iframe src="https://www.youtube.com/embed/Sug1rXRE9OY" allowfullscreen></iframe>
 
     <h2>Contact Us</h2>
